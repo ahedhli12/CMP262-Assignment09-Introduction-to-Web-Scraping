@@ -1,0 +1,14 @@
+{
+  "chat.disableAIFeatures": false,
+  "chat.agent.enabled": false,
+  "chat.includeReferencedInstructions": true,
+  "github.copilot.enable": {
+    "*": false,
+    "python": false,
+    "html": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "github.copilot.nextEditSuggestions.enabled": false
+}
